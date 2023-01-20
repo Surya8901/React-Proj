@@ -20,6 +20,15 @@
   margin-bottom: 10px;
 }
 
+.error-message {
+  padding: 1px;
+  margin: 5px;
+  }
+
+  .error-text {
+    color: red;
+}
+
 .register__btn {
   padding: 10px;
   font-size: 18px;
